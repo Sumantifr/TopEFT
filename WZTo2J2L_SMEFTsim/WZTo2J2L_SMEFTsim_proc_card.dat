@@ -1,4 +1,4 @@
-import model SMEFTsim_topU3l_MwScheme_UFO-massless_HWW
+import model SMEFTsim_topU3l_MwScheme_UFO-massless_WZ
 define p = g u c d s b u~ c~ d~ s~ b~
 define j = p
 define l+ = e+ mu+ ta+
